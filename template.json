@@ -55,7 +55,7 @@
             "name": "[parameters('sshPublicKeys_VM1_key_name')]",
             "location": "northeurope",
             "properties": {
-                "publicKey": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDdIni6zWP3VGsGs1Geqhoay0eGC1ThwLYnD9VocdzscAkmS36pIdYUZsRyHd+/meT3CUkbwNJLNe8yKaLl8CV1ebXY8yzu2KjzMipq8pbynBuuov0AQLc9yYdv67X5v70CKK3CiWFdXm7vesHpFSMMOrWZBTXiIRYWDTntMIDHkeItyvcKUNmr5ZzjiA8lokh6BEGhq6i06q6q40d9UoiXCMl5KBgA/Od6h/tGP451L6uTOGsTdKg5tp/cmFfsueMJk70Nda2lEDi8L42duaqEH6exVoF5lOabRFVCGgIS1/KRsqR5Jj3gcS06sn2est9KyZvZqAHRlpuf2+amkAIP/qA6nM5J3m73yCOnC3MtfUdg6shV3Jeb2+y2K0bA8dc7PNfNn2CDkqibvYR0zzbekZJ0OoKBw0RddeRv4z/kqaAfM1dnCkzg+6cM2hJL5rC/dYmZQlxPbR7J7ICpp5mbheP9t8x4DMBIgyQJxmkUzPr6O3CD6AReox4V+/C5xwk= generated-by-azure"
+                "publicKey": ""
             }
         },
         {
@@ -125,7 +125,7 @@
                             "publicKeys": [
                                 {
                                     "path": "/home/andriy1/.ssh/authorized_keys",
-                                    "keyData": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDdIni6zWP3VGsGs1Geqhoay0eGC1ThwLYnD9VocdzscAkmS36pIdYUZsRyHd+/meT3CUkbwNJLNe8yKaLl8CV1ebXY8yzu2KjzMipq8pbynBuuov0AQLc9yYdv67X5v70CKK3CiWFdXm7vesHpFSMMOrWZBTXiIRYWDTntMIDHkeItyvcKUNmr5ZzjiA8lokh6BEGhq6i06q6q40d9UoiXCMl5KBgA/Od6h/tGP451L6uTOGsTdKg5tp/cmFfsueMJk70Nda2lEDi8L42duaqEH6exVoF5lOabRFVCGgIS1/KRsqR5Jj3gcS06sn2est9KyZvZqAHRlpuf2+amkAIP/qA6nM5J3m73yCOnC3MtfUdg6shV3Jeb2+y2K0bA8dc7PNfNn2CDkqibvYR0zzbekZJ0OoKBw0RddeRv4z/kqaAfM1dnCkzg+6cM2hJL5rC/dYmZQlxPbR7J7ICpp5mbheP9t8x4DMBIgyQJxmkUzPr6O3CD6AReox4V+/C5xwk= generated-by-azure"
+                                    "keyData": ""
                                 }
                             ]
                         },
@@ -202,7 +202,7 @@
                             "publicKeys": [
                                 {
                                     "path": "/home/andriy1/.ssh/authorized_keys",
-                                    "keyData": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDdIni6zWP3VGsGs1Geqhoay0eGC1ThwLYnD9VocdzscAkmS36pIdYUZsRyHd+/meT3CUkbwNJLNe8yKaLl8CV1ebXY8yzu2KjzMipq8pbynBuuov0AQLc9yYdv67X5v70CKK3CiWFdXm7vesHpFSMMOrWZBTXiIRYWDTntMIDHkeItyvcKUNmr5ZzjiA8lokh6BEGhq6i06q6q40d9UoiXCMl5KBgA/Od6h/tGP451L6uTOGsTdKg5tp/cmFfsueMJk70Nda2lEDi8L42duaqEH6exVoF5lOabRFVCGgIS1/KRsqR5Jj3gcS06sn2est9KyZvZqAHRlpuf2+amkAIP/qA6nM5J3m73yCOnC3MtfUdg6shV3Jeb2+y2K0bA8dc7PNfNn2CDkqibvYR0zzbekZJ0OoKBw0RddeRv4z/kqaAfM1dnCkzg+6cM2hJL5rC/dYmZQlxPbR7J7ICpp5mbheP9t8x4DMBIgyQJxmkUzPr6O3CD6AReox4V+/C5xwk= generated-by-azure"
+                                    "keyData": ""
                                 }
                             ]
                         },
